@@ -1,0 +1,30 @@
+Production environment
+
+App registration 
+DBC_PI_SP_IAC_PROD
+SP ID:	   d6811ce8-d0ac-4ffa-96a3-61d132cdde88
+Object ID: 99492ba0-484f-4160-9168-c85beb3801e6
+Tenant ID: 20662f19-dcf5-43db-861d-23acdd8eeb44
+DBC_PI_IAC_PROD_SECRET: -dYOHSA01pJxQ_6jqNyW4xEkI.S9ke7~~d 	Expiry: 8/16/2022
+Subscription ID: 780f9206-52e1-4f07-afa5-8783e9e851c3
+Subscription Name: DeepBlueCompany.com.au (DBC)
+Azure DevOps Service Connection name: DBC_PI_SC_IAC_PROD
+
+Azure-AD-admin-prod
+SP ID: eeaf80fb-ca5c-46cf-9fc0-d46519d4b172
+Object ID: c0a7d9d8-5624-4ca7-94c0-36e3ffdf58a0
+Tenant ID: 20662f19-dcf5-43db-861d-23acdd8eeb44
+SECRET ID: U-2uM-8gv11o9-1QcjH7fEE7Z-W11F-15Y
+
+azure-ad-server-sp-prod
+SP ID: 20524806-d54c-48ea-9a7f-bc5df29e7d95
+Object ID: 80115afd-33fb-4bad-b6bb-5cb1bb15f022
+Tenant ID: 20662f19-dcf5-43db-861d-23acdd8eeb44
+SECRET ID: 8Zmi9h_cE5z-lXVq~AsWV2-Bj2Um3-1.~u
+
+azure-ad-client-sp-prod
+SP ID: f2bfb2c1-fee0-4434-9387-b7123fe9ca69
+Object ID: 871a5899-8b40-4b10-9e47-810323d141b7
+Tenant ID: 20662f19-dcf5-43db-861d-23acdd8eeb44
+SECRET ID: _z1au7Tw_uBpN2rl6Oym7.1V5TE74JV11_
+
